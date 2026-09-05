@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path');
 
 const PORT = process.env.PORT || 3000;
-const BOT_TOKEN = '8699436842:AAEbE2IVpT3D8gjRqov15t8AYY_4gBj-FIw';
+const BOT_TOKEN = '8869108661:AAEgnAkJpxFVIzjeAY5Kegs7A2wTcqwNTYk';
 const CHAT_ID = '5799909457';
 const ROOT = __dirname;
 const submissions = new Map();
